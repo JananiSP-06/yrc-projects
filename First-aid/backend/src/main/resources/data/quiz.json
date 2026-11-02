@@ -1,0 +1,182 @@
+[
+  {
+    "id": "q-burns-1",
+    "topic": "burns",
+    "scenario": "A friend splashes boiling water on their forearm. What should you do first?",
+    "scene": "burns-cover",
+    "options": [
+      "Put ice on the burn to cool it quickly",
+      "Hold it under cool running water for 20 minutes",
+      "Rub butter on it to soothe the skin",
+      "Burst any blisters and cover it tightly"
+    ],
+    "correct": 1,
+    "explanation": "Cool running water for 20 minutes lowers the heat in the skin and reduces damage. Ice can harm the skin further, and butter or creams trap heat.",
+    "feedbackScene": "burns-2"
+  },
+  {
+    "id": "q-burns-2",
+    "topic": "burns",
+    "scenario": "You have cooled a burn on a classmate's arm. How should you cover it?",
+    "scene": "burns-4",
+    "options": [
+      "Fluffy cotton wool pressed on tightly",
+      "Toothpaste, then a plaster",
+      "Cling film or a clean non-fluffy cloth, laid on loosely",
+      "Leave it open to the air in the sun"
+    ],
+    "correct": 2,
+    "explanation": "Cling film or a clean, non-fluffy cloth protects the burn from germs without sticking to it. Cotton wool leaves fibres in the burn, and tight wraps cause pain and swelling.",
+    "feedbackScene": "burns-4"
+  },
+  {
+    "id": "q-bleeding-1",
+    "topic": "bleeding",
+    "scenario": "A classmate cuts their arm badly and it is bleeding heavily. What do you do?",
+    "scene": "bleeding-cover",
+    "options": [
+      "Wash it for five minutes and wait to see",
+      "Press firmly on it with a clean pad and call 112",
+      "Tie a tight band above it and leave it",
+      "Let it bleed freely to clean the wound"
+    ],
+    "correct": 1,
+    "explanation": "Firm direct pressure is the quickest way to slow heavy bleeding. Call 112 at the same time, or ask someone else to call.",
+    "feedbackScene": "bleeding-2"
+  },
+  {
+    "id": "q-bleeding-2",
+    "topic": "bleeding",
+    "scenario": "You are pressing a pad on a wound and blood soaks through. What now?",
+    "scene": "bleeding-3",
+    "options": [
+      "Take the pad off and put a fresh one on",
+      "Stop pressing and look at the wound",
+      "Add another pad on top and keep pressing",
+      "Pour water over the pad"
+    ],
+    "correct": 2,
+    "explanation": "Removing the pad can break the clot that is starting to form. Put a new pad on top and keep pressing.",
+    "feedbackScene": "bleeding-3"
+  },
+  {
+    "id": "q-choking-1",
+    "topic": "choking",
+    "scenario": "An adult at lunch is clutching their throat. They cannot speak or cough. What do you do first?",
+    "scene": "choking-cover",
+    "options": [
+      "Give up to 5 sharp back blows between the shoulder blades",
+      "Give them a glass of water",
+      "Lay them flat and wait",
+      "Ask them to lift their arms above their head"
+    ],
+    "correct": 0,
+    "explanation": "For a person who cannot cough, speak or breathe, start with up to 5 back blows. If that does not work, give 5 abdominal thrusts and call 112.",
+    "feedbackScene": "choking-2"
+  },
+  {
+    "id": "q-choking-2",
+    "topic": "choking",
+    "scenario": "A 6-month-old baby is choking and cannot cry. Which action is right?",
+    "scene": "choking-4",
+    "options": [
+      "Give abdominal thrusts like for an adult",
+      "Sweep your finger deep into the mouth",
+      "Hold the baby upside down by the ankles",
+      "Lay the baby face down on your forearm and give 5 back blows, then 5 chest thrusts"
+    ],
+    "correct": 3,
+    "explanation": "Babies under 1 year get back blows and chest thrusts, never abdominal thrusts. Keep the head lower than the body.",
+    "feedbackScene": "choking-4"
+  },
+  {
+    "id": "q-fainting-1",
+    "topic": "fainting",
+    "scenario": "A person faints at a bus stop and wakes after a few seconds. What should you do first?",
+    "scene": "fainting-cover",
+    "options": [
+      "Sit them upright straight away",
+      "Lay them down and raise their legs",
+      "Splash cold water on their face",
+      "Give them a hot drink"
+    ],
+    "correct": 1,
+    "explanation": "Lying down with the legs raised helps blood flow back to the brain. Sitting up too fast can cause another faint.",
+    "feedbackScene": "fainting-1"
+  },
+  {
+    "id": "q-fainting-2",
+    "topic": "fainting",
+    "scenario": "A person has fainted and does not wake up. They are breathing normally. What now?",
+    "scene": "fainting-cover",
+    "options": [
+      "Leave them flat on their back",
+      "Give them sips of water",
+      "Place them in the recovery position and call 112",
+      "Sit them in a chair"
+    ],
+    "correct": 2,
+    "explanation": "The recovery position keeps the airway open and stops them choking on vomit. Call 112 and stay with them.",
+    "feedbackScene": "fainting-4"
+  },
+  {
+    "id": "q-snake-1",
+    "topic": "snake-bites",
+    "scenario": "A hiker is bitten on the leg by a snake. What is the best action?",
+    "scene": "snake-cover",
+    "options": [
+      "Cut the bite and suck out the venom",
+      "Tie a very tight band above the bite",
+      "Keep them still, support the leg and get to hospital urgently",
+      "Chase the snake to catch it for the doctors"
+    ],
+    "correct": 2,
+    "explanation": "Keeping still slows the spread of venom, and antivenom is only available in hospital. Cutting, sucking and tight bands cause harm.",
+    "feedbackScene": "snake-bites-5"
+  },
+  {
+    "id": "q-snake-2",
+    "topic": "snake-bites",
+    "scenario": "A neighbour suggests putting a herbal paste on a snake bite. What do you do?",
+    "scene": "snake-bites-4",
+    "options": [
+      "Apply the paste and wait an hour",
+      "Do not apply it. Take the person to hospital",
+      "Burn the bite to destroy the venom",
+      "Apply the paste and then walk to the clinic"
+    ],
+    "correct": 1,
+    "explanation": "Herbs and other home remedies do not neutralise venom and waste precious time. Hospital antivenom is the treatment.",
+    "feedbackScene": "snake-bites-4"
+  },
+  {
+    "id": "q-fracture-1",
+    "topic": "fractures",
+    "scenario": "A boy falls from a swing and his forearm looks bent and is very painful. What do you do?",
+    "scene": "fracture-cover",
+    "options": [
+      "Pull the arm straight",
+      "Support the arm as it is, make a sling and get medical help",
+      "Massage the arm to ease the pain",
+      "Ask him to move it to test if it is broken"
+    ],
+    "correct": 1,
+    "explanation": "Moving or straightening a broken bone can damage nerves, blood vessels and tissue. Support it where it is and get medical help.",
+    "feedbackScene": "fractures-4"
+  },
+  {
+    "id": "q-fracture-2",
+    "topic": "fractures",
+    "scenario": "A bone is sticking out through the skin of a cyclist's lower leg. What do you do?",
+    "scene": "fractures-2",
+    "options": [
+      "Push the bone back in",
+      "Cover with a clean dressing, press around it and call 112",
+      "Scrub the wound with soap",
+      "Wrap it as tightly as you can"
+    ],
+    "correct": 1,
+    "explanation": "Never push the bone back. Cover the wound with a clean dressing, press around (not on) the bone, keep the person still and call 112.",
+    "feedbackScene": "fractures-2"
+  }
+]

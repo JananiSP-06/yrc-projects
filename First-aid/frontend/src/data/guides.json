@@ -1,0 +1,364 @@
+[
+  {
+    "id": "burns",
+    "title": "Burns",
+    "tagline": "Cool it, cover it, call if serious.",
+    "description": "Hot water, steam, flames or a hot pan can all cause burns. Fast cooling makes a big difference.",
+    "duration": "3 min",
+    "level": "Beginner",
+    "accent": "#ff8a5c",
+    "tint": "#ffe9df",
+    "cover": "burns-cover",
+    "coverAlt": "A spilled kettle and a person holding a burned wrist.",
+    "steps": [
+      {
+        "id": "burns-1",
+        "title": "Move away from the heat",
+        "text": "Make sure the area is safe. Move the person away from the flames, hot liquid or hot object.",
+        "tip": "If clothes are on fire: stop, drop to the ground and roll.",
+        "alt": "A person stepping away from a kettle that is spilling hot water."
+      },
+      {
+        "id": "burns-2",
+        "title": "Cool the burn with running water",
+        "text": "Hold the burn under cool or lukewarm running water for 20 minutes. Start as soon as possible.",
+        "warning": "Never use ice or iced water. Do not put creams or ointments on the burn.",
+        "alt": "A forearm held under a running tap with a 20 minute timer."
+      },
+      {
+        "id": "burns-3",
+        "title": "Remove tight items",
+        "text": "Gently take off rings, watches and tight clothing near the burn before it swells.",
+        "warning": "Do not pull off anything that is stuck to the skin.",
+        "alt": "A helper gently sliding a ring off a burned finger."
+      },
+      {
+        "id": "burns-4",
+        "title": "Cover the burn loosely",
+        "text": "Lay cling film or a clean, non-fluffy cloth over the burn. Do not wrap it tightly.",
+        "warning": "Do not burst blisters. Do not use butter, oil or toothpaste.",
+        "alt": "Cling film being laid loosely over a burned forearm."
+      },
+      {
+        "id": "burns-5",
+        "title": "Know when to get help",
+        "text": "Call 112 for burns that are large, deep, or on the face, hands, feet or joints. Also call for chemical or electrical burns, and for burns on babies or older people.",
+        "tip": "Keep the person warm and calm while you wait.",
+        "alt": "A helper on the phone to the emergency services beside a person with a covered burn."
+      }
+    ],
+    "keyActions": [
+      "Move away from the heat source",
+      "Cool under running water for 20 minutes",
+      "Remove rings and tight items, unless stuck",
+      "Cover loosely with cling film or a clean cloth",
+      "Never use ice, butter or creams"
+    ],
+    "seekHelp": [
+      "The burn is larger than the person's hand",
+      "It is deep, white, charred or leathery",
+      "It is on the face, hands, feet, joints or genitals",
+      "It was caused by chemicals, electricity or an explosion",
+      "The person is a baby, a young child or an older adult"
+    ]
+  },
+  {
+    "id": "bleeding",
+    "title": "Bleeding",
+    "tagline": "Press firmly. Keep pressing.",
+    "description": "Heavy bleeding can become life-threatening. Firm, steady pressure is the most important action.",
+    "duration": "4 min",
+    "level": "Beginner",
+    "accent": "#e8505b",
+    "tint": "#fde4e6",
+    "cover": "bleeding-cover",
+    "coverAlt": "A person pressing a pad on a bleeding arm.",
+    "steps": [
+      {
+        "id": "bleeding-1",
+        "title": "Stay safe and call for help",
+        "text": "Check the area is safe. Wear gloves if you have them. Call 112 for severe bleeding, or ask someone else to call.",
+        "alt": "A helper in gloves holding a phone next to an injured person with a bleeding arm."
+      },
+      {
+        "id": "bleeding-2",
+        "title": "Press firmly on the wound",
+        "text": "Press a clean pad or cloth firmly on the wound. Use your hand if you have nothing else.",
+        "tip": "Use the flat of your fingers or palm, and press straight down.",
+        "alt": "A hand pressing a gauze pad firmly onto a bleeding forearm."
+      },
+      {
+        "id": "bleeding-3",
+        "title": "Keep pressing. Do not peek.",
+        "text": "Keep steady pressure on the wound. If blood soaks through, add another pad on top.",
+        "warning": "Do not remove the first pad. It helps the blood to clot.",
+        "alt": "A stack of blood-soaked pads with a new pad on top and a clock."
+      },
+      {
+        "id": "bleeding-4",
+        "title": "Lay them down and raise the injury",
+        "text": "Help the person lie down. If you do not suspect a broken bone, raise the injured limb above the heart. Keep them warm.",
+        "alt": "A person lying down with an injured arm raised on a cushion and a blanket over them."
+      },
+      {
+        "id": "bleeding-5",
+        "title": "Bandage firmly and get help",
+        "text": "Tie a bandage firmly over the pad. It should be snug, not tight. Check that fingers or toes stay warm and pink.",
+        "warning": "If an object is stuck in the wound, do not pull it out. Press around it.",
+        "alt": "A roller bandage wrapped over a pad on a forearm."
+      }
+    ],
+    "keyActions": [
+      "Call 112 for severe bleeding",
+      "Press firmly with a clean pad",
+      "Add pads on top. Never remove the first",
+      "Lay the person down and keep them warm",
+      "Bandage firmly, not tightly"
+    ],
+    "seekHelp": [
+      "Blood is spurting or soaking through pads quickly",
+      "Bleeding does not slow after 10 minutes of pressure",
+      "The wound is deep, large or has an object stuck in it",
+      "The person looks pale, sweaty, confused or faint"
+    ]
+  },
+  {
+    "id": "choking",
+    "title": "Choking",
+    "tagline": "Back blows, then thrusts.",
+    "description": "When something blocks the airway, every second counts. Learn the steps for adults, children and babies.",
+    "duration": "4 min",
+    "level": "Essential",
+    "accent": "#3a7bd5",
+    "tint": "#e1edfb",
+    "cover": "choking-cover",
+    "coverAlt": "A person clutching their throat while someone helps.",
+    "steps": [
+      {
+        "id": "choking-1",
+        "title": "Spot the signs",
+        "text": "A choking person may not be able to speak, cough or breathe. They may clutch their throat. If they can cough, encourage them to keep coughing.",
+        "alt": "A person clutching their throat while a helper encourages them to cough."
+      },
+      {
+        "id": "choking-2",
+        "title": "Give 5 back blows",
+        "text": "For an adult or child over 1 year: lean them forward. Give up to 5 sharp blows between the shoulder blades with the heel of your hand.",
+        "alt": "A helper hitting between the shoulder blades of a person leaning forward."
+      },
+      {
+        "id": "choking-3",
+        "title": "Give 5 abdominal thrusts",
+        "text": "Stand behind them. Make a fist above the belly button. Pull sharply inwards and upwards, up to 5 times.",
+        "warning": "Never give abdominal thrusts to a baby under 1 year.",
+        "alt": "A helper standing behind a person with a fist above the belly button, pulling inwards and upwards."
+      },
+      {
+        "id": "choking-4",
+        "title": "Babies: back blows and chest thrusts",
+        "text": "Lay the baby face down along your forearm, head lower than the body. Give 5 back blows. Turn the baby over and give 5 chest thrusts with two fingers.",
+        "alt": "A baby lying face down along a helper's forearm while the helper gives back blows."
+      },
+      {
+        "id": "choking-5",
+        "title": "Call 112 and keep going",
+        "text": "Alternate 5 back blows and 5 thrusts. Call 112 if the object does not come out. If the person becomes unresponsive, start CPR.",
+        "tip": "Anyone who had abdominal thrusts should see a doctor afterwards.",
+        "alt": "A helper on the phone to the emergency services while a person recovers on a chair."
+      }
+    ],
+    "keyActions": [
+      "Encourage coughing if they can cough",
+      "5 back blows between the shoulder blades",
+      "5 abdominal thrusts (not for babies)",
+      "Babies: 5 back blows and 5 chest thrusts",
+      "Call 112 and start CPR if they stop responding"
+    ],
+    "seekHelp": [
+      "The object does not come out after a few rounds",
+      "The person cannot breathe, speak or cough",
+      "The person becomes limp or unresponsive",
+      "Anyone who received abdominal thrusts or chest thrusts"
+    ]
+  },
+  {
+    "id": "fainting",
+    "title": "Fainting",
+    "tagline": "Lay down, raise legs, check breathing.",
+    "description": "Fainting is a short loss of consciousness. Most people recover quickly, but you must check they are breathing.",
+    "duration": "3 min",
+    "level": "Beginner",
+    "accent": "#2fa58f",
+    "tint": "#ddf4ee",
+    "cover": "fainting-cover",
+    "coverAlt": "A person lying on the ground with stars around their head.",
+    "steps": [
+      {
+        "id": "fainting-1",
+        "title": "Lay them down and raise the legs",
+        "text": "Lay the person on their back. Raise their legs about 30 cm on a bag or cushion. This helps blood flow back to the brain.",
+        "alt": "A person lying on the floor with their legs raised on a bag."
+      },
+      {
+        "id": "fainting-2",
+        "title": "Check response and breathing",
+        "text": "Tap their shoulders and ask loudly, \"Can you hear me?\" Look, listen and feel for normal breathing for up to 10 seconds.",
+        "warning": "Not breathing normally? Call 112 and start CPR.",
+        "alt": "A helper tapping a lying person's shoulder and checking their breathing."
+      },
+      {
+        "id": "fainting-3",
+        "title": "Loosen clothes and give fresh air",
+        "text": "Loosen a tight collar or belt. Ask onlookers to step back. Open a window or fan the person.",
+        "alt": "A helper loosening a lying person's collar while onlookers step back."
+      },
+      {
+        "id": "fainting-4",
+        "title": "Recovery position if they do not wake",
+        "text": "If they are breathing normally but do not wake up, roll them onto their side. Tilt the head back gently to keep the airway open. Call 112.",
+        "alt": "A person lying on their side in the recovery position."
+      },
+      {
+        "id": "fainting-5",
+        "title": "Help them up slowly",
+        "text": "When they wake, let them rest lying down for a few minutes. Then help them sit up slowly. Give a drink once they are fully alert.",
+        "tip": "See a doctor if it was the first time, they were hurt, or they feel unwell.",
+        "alt": "A helper giving a glass of water to a person who is sitting up slowly."
+      }
+    ],
+    "keyActions": [
+      "Lay them down and raise the legs",
+      "Check response and breathing",
+      "Loosen tight clothes, give fresh air",
+      "Recovery position if breathing but unresponsive",
+      "Sit up slowly, then give a drink"
+    ],
+    "seekHelp": [
+      "They do not wake within about a minute",
+      "They are not breathing normally",
+      "They are hurt from the fall, pregnant, or have chest pain",
+      "It happens again, or they have a heart condition or diabetes"
+    ]
+  },
+  {
+    "id": "snake-bites",
+    "title": "Snake bites",
+    "tagline": "Keep still. Get to hospital fast.",
+    "description": "A bite from a venomous snake is an emergency. Antivenom is only available in hospital, so speed matters.",
+    "duration": "4 min",
+    "level": "Essential",
+    "accent": "#7a8f2b",
+    "tint": "#eef3d3",
+    "cover": "snake-cover",
+    "coverAlt": "A coiled snake with a person stepping back.",
+    "steps": [
+      {
+        "id": "snake-bites-1",
+        "title": "Move away and stay calm",
+        "text": "Step away from the snake. Keep the person calm. Staying calm slows the spread of venom.",
+        "warning": "Do not try to catch, kill or handle the snake.",
+        "alt": "A person and helper stepping away from a coiled snake."
+      },
+      {
+        "id": "snake-bites-2",
+        "title": "Keep them still",
+        "text": "Help the person sit or lie down. Keep the bitten limb still, at or below the level of the heart.",
+        "warning": "Do not let them walk or run.",
+        "alt": "A person sitting on the ground with a bitten leg resting out in front, and a helper telling them to stay still."
+      },
+      {
+        "id": "snake-bites-3",
+        "title": "Remove rings and tight items",
+        "text": "Take off rings, watches, bracelets and tight clothing near the bite. The limb may swell.",
+        "alt": "A helper removing a bracelet from a person's wrist."
+      },
+      {
+        "id": "snake-bites-4",
+        "title": "Support the limb and cover the bite",
+        "text": "Support the limb with a splint or sling, like a broken bone. Cover the bite with a clean, dry cloth.",
+        "warning": "Do not cut or suck the bite. Do not tie a tight band. Do not use herbs, ice or oils.",
+        "alt": "A leg supported with a splint and a clean cloth over the bite, with crossed-out knife and tight band."
+      },
+      {
+        "id": "snake-bites-5",
+        "title": "Get to hospital quickly",
+        "text": "Call 112 or 108 now, or take the person to the nearest hospital that has antivenom. Do not wait for symptoms.",
+        "tip": "Note the time of the bite and any symptoms to tell the doctors.",
+        "alt": "An ambulance arriving as a helper stays with the person who is sitting still."
+      }
+    ],
+    "keyActions": [
+      "Move away from the snake. Never touch it",
+      "Keep the person calm and still",
+      "Remove rings and tight items",
+      "Support the limb, cover the bite",
+      "Go to hospital. Antivenom is the treatment"
+    ],
+    "seekHelp": [
+      "Every suspected snake bite needs hospital care",
+      "Pain, swelling, bleeding or blurred vision may follow",
+      "Do not wait for symptoms to appear",
+      "Traditional remedies cause dangerous delay"
+    ]
+  },
+  {
+    "id": "fractures",
+    "title": "Fractures",
+    "tagline": "Don't move it. Support it.",
+    "description": "A broken bone is painful and can get worse if moved. Support the injury and get medical help.",
+    "duration": "4 min",
+    "level": "Intermediate",
+    "accent": "#8a5cf6",
+    "tint": "#ece5fd",
+    "cover": "fracture-cover",
+    "coverAlt": "A person with an arm in a sling.",
+    "steps": [
+      {
+        "id": "fractures-1",
+        "title": "Keep them still",
+        "text": "Ask the person not to move the injured part. Only move them if they are in danger. Call 112 for serious injuries.",
+        "tip": "Call 112 for head, neck, back, hip or thigh injuries, or if a bone is through the skin.",
+        "alt": "A person sitting on the ground holding their arm while a helper tells them to stay still."
+      },
+      {
+        "id": "fractures-2",
+        "title": "Cover any wound",
+        "text": "If there is a wound, cover it with a clean dressing. Press gently around it, not on it.",
+        "warning": "Never push a bone back in. Do not press on a bone sticking out.",
+        "alt": "A clean dressing placed over an open wound on a lower leg."
+      },
+      {
+        "id": "fractures-3",
+        "title": "Support the injury where it is",
+        "text": "Hold or pad the injured part in the position you found it. Use rolled towels or cushions.",
+        "warning": "Do not try to straighten a broken limb.",
+        "alt": "An injured arm resting on rolled towels with a helper supporting it."
+      },
+      {
+        "id": "fractures-4",
+        "title": "Make a sling or splint",
+        "text": "If help will be delayed, support an arm in a sling. For a leg, pad between the legs and bind them gently together. Tie knots on the uninjured side.",
+        "alt": "A triangular bandage sling supporting an injured arm."
+      },
+      {
+        "id": "fractures-5",
+        "title": "Check, cool and get help",
+        "text": "Check fingers or toes stay warm and pink. Hold a cold pack wrapped in cloth on the injury to reduce swelling. Give nothing to eat or drink. Get medical help.",
+        "alt": "A cold pack wrapped in cloth held against an arm in a sling."
+      }
+    ],
+    "keyActions": [
+      "Keep the person and the injury still",
+      "Cover wounds. Do not press on bone",
+      "Support in the position found",
+      "Sling or splint if help is delayed",
+      "Cold pack in a cloth. Get medical help"
+    ],
+    "seekHelp": [
+      "Any suspected broken bone needs medical care",
+      "A bone is through the skin, or the limb looks bent",
+      "Fingers or toes are numb, cold or blue",
+      "The injury involves the head, neck, back, hip or thigh"
+    ]
+  }
+]
