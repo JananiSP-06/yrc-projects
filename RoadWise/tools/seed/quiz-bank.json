@@ -1,0 +1,710 @@
+[
+ {
+  "topic": "Basics",
+  "level": "easy",
+  "q": "Which is a common cause of road accidents?",
+  "right": "Overspeeding",
+  "wrong": [
+   "Wearing a helmet",
+   "Using a zebra crossing",
+   "Keeping a safe distance"
+  ],
+  "why": "Higher speed leaves less time to react."
+ },
+ {
+  "topic": "Basics",
+  "level": "easy",
+  "q": "What should you do before starting a journey?",
+  "right": "Check your vehicle and plan your trip",
+  "wrong": [
+   "Skip the checks to save time",
+   "Turn up the music",
+   "Drive fast to arrive early"
+  ],
+  "why": "A quick check of brakes, tyres and lights prevents breakdowns."
+ },
+ {
+  "topic": "Basics",
+  "level": "medium",
+  "q": "Why should you keep a safe distance from the vehicle ahead?",
+  "right": "To have time to stop if it brakes",
+  "wrong": [
+   "To look at its number plate",
+   "To race past it",
+   "To use less fuel"
+  ],
+  "why": "A gap gives you time and space to react."
+ },
+ {
+  "topic": "Basics",
+  "level": "hard",
+  "q": "What is the safest way to deal with tiredness on a long drive?",
+  "right": "Stop at a safe place and rest",
+  "wrong": [
+   "Open the window and keep going",
+   "Drive faster to finish sooner",
+   "Turn the music up"
+  ],
+  "why": "Only rest cures tiredness. Fatigue slows your reactions."
+ },
+ {
+  "topic": "Traffic Rules",
+  "level": "easy",
+  "q": "Who must follow traffic rules?",
+  "right": "Everyone using the road",
+  "wrong": [
+   "Only new drivers",
+   "Only children",
+   "Only people in cars"
+  ],
+  "why": "Rules apply to all road users."
+ },
+ {
+  "topic": "Traffic Rules",
+  "level": "medium",
+  "q": "Is it safe to use a mobile phone while riding a two-wheeler?",
+  "right": "No, never",
+  "wrong": [
+   "Yes, for short calls",
+   "Yes, if the road is empty",
+   "Yes, with one hand"
+  ],
+  "why": "Phones take your eyes and hands away from controlling the vehicle."
+ },
+ {
+  "topic": "Traffic Rules",
+  "level": "medium",
+  "q": "Why should you use your indicator?",
+  "right": "To tell others you plan to turn or change lane",
+  "wrong": [
+   "Only to look stylish",
+   "It is needed only at night",
+   "It makes the vehicle faster"
+  ],
+  "why": "Indicators let others predict your move."
+ },
+ {
+  "topic": "Traffic Rules",
+  "level": "hard",
+  "q": "When is it safe to overtake?",
+  "right": "When the road ahead is clearly free and visible",
+  "wrong": [
+   "On a sharp bend",
+   "Near the top of a hill",
+   "At a pedestrian crossing"
+  ],
+  "why": "Overtaking needs a clear view. Never overtake on bends, crests or crossings."
+ },
+ {
+  "topic": "Helmet and Seatbelt",
+  "level": "easy",
+  "q": "When should a two-wheeler rider wear a helmet?",
+  "right": "On every ride",
+  "wrong": [
+   "Only on highways",
+   "Only on long trips",
+   "Only at night"
+  ],
+  "why": "Crashes happen on short trips as well."
+ },
+ {
+  "topic": "Helmet and Seatbelt",
+  "level": "easy",
+  "q": "Who should wear a seatbelt in a car?",
+  "right": "Everyone in the car",
+  "wrong": [
+   "Only the driver",
+   "Only the front passenger",
+   "Only adults on highways"
+  ],
+  "why": "Rear passengers can be thrown forward without a belt."
+ },
+ {
+  "topic": "Helmet and Seatbelt",
+  "level": "medium",
+  "q": "Why must the helmet chin strap be fastened?",
+  "right": "An open strap lets the helmet come off in a crash",
+  "wrong": [
+   "It keeps the head warm",
+   "It is only for style",
+   "It makes the helmet lighter"
+  ],
+  "why": "A helmet only protects if it stays on your head."
+ },
+ {
+  "topic": "Helmet and Seatbelt",
+  "level": "medium",
+  "q": "Do airbags replace seatbelts?",
+  "right": "No, they work together with seatbelts",
+  "wrong": [
+   "Yes, airbags are enough",
+   "Yes, but only in new cars",
+   "Only for the rear seat"
+  ],
+  "why": "Airbags are designed to work together with seatbelts."
+ },
+ {
+  "topic": "Helmet and Seatbelt",
+  "level": "hard",
+  "q": "Where should the lap part of a seatbelt sit?",
+  "right": "Low across the hips",
+  "wrong": [
+   "Across the stomach",
+   "Under the arm",
+   "Behind the back"
+  ],
+  "why": "A low, snug lap belt protects the strong hip bones."
+ },
+ {
+  "topic": "Pedestrian Safety",
+  "level": "easy",
+  "q": "Where is the safest place to cross the road?",
+  "right": "At a zebra crossing",
+  "wrong": [
+   "Between parked cars",
+   "Near a sharp bend",
+   "Anywhere that looks empty"
+  ],
+  "why": "Drivers expect people at crossings."
+ },
+ {
+  "topic": "Pedestrian Safety",
+  "level": "easy",
+  "q": "What do you do first before crossing?",
+  "right": "Stop and look for vehicles in both directions",
+  "wrong": [
+   "Run across",
+   "Look at your phone",
+   "Close your eyes and walk"
+  ],
+  "why": "Look right, left, then right again."
+ },
+ {
+  "topic": "Pedestrian Safety",
+  "level": "medium",
+  "q": "A school bus has stopped. What should children do?",
+  "right": "Wait for it to stop fully and cross only when safe",
+  "wrong": [
+   "Run behind the bus",
+   "Cross right in front of it",
+   "Cross between moving cars"
+  ],
+  "why": "Drivers cannot see people close behind or in front of a bus."
+ },
+ {
+  "topic": "Pedestrian Safety",
+  "level": "hard",
+  "q": "How can you stay visible while walking at night?",
+  "right": "Wear light or reflective clothes",
+  "wrong": [
+   "Wear dark clothes",
+   "Walk in the middle of the road",
+   "Keep your phone screen off"
+  ],
+  "why": "Reflective items help drivers notice you earlier."
+ },
+ {
+  "topic": "Signals and Signs",
+  "level": "easy",
+  "q": "What does a red traffic light mean?",
+  "right": "Stop",
+  "wrong": [
+   "Go",
+   "Speed up",
+   "Turn off lights"
+  ],
+  "why": "Stop behind the stop line."
+ },
+ {
+  "topic": "Signals and Signs",
+  "level": "easy",
+  "q": "What shape are mandatory signs usually?",
+  "right": "Circular with a red ring",
+  "wrong": [
+   "Rectangular and green",
+   "Octagonal and blue",
+   "Triangular and yellow only"
+  ],
+  "why": "Mandatory signs are mostly circular with a red border."
+ },
+ {
+  "topic": "Signals and Signs",
+  "level": "medium",
+  "q": "What does a yellow light tell you?",
+  "right": "Get ready to stop",
+  "wrong": [
+   "Speed up",
+   "Honk and go",
+   "Turn around"
+  ],
+  "why": "Yellow is a warning that red is coming."
+ },
+ {
+  "topic": "Signals and Signs",
+  "level": "hard",
+  "q": "A traffic police officer signals you to stop while the light is green. What do you do?",
+  "right": "Obey the officer and stop",
+  "wrong": [
+   "Follow the green light",
+   "Honk and go",
+   "Slow down slightly and continue"
+  ],
+  "why": "Directions from a traffic police officer overrule the signal."
+ },
+ {
+  "topic": "Emergency",
+  "level": "easy",
+  "q": "Which number do you call for emergency help in India?",
+  "right": "112",
+  "wrong": [
+   "100100",
+   "555",
+   "9"
+  ],
+  "why": "112 is the national emergency number."
+ },
+ {
+  "topic": "Emergency",
+  "level": "medium",
+  "q": "What should you do if you see an accident?",
+  "right": "Stay safe, call 112 and give the exact location",
+  "wrong": [
+   "Take photos first",
+   "Crowd around the injured",
+   "Drive away quickly"
+  ],
+  "why": "Safety and a quick call for help come first."
+ },
+ {
+  "topic": "Emergency",
+  "level": "hard",
+  "q": "Should you move a seriously injured person?",
+  "right": "Not unless there is immediate danger such as fire",
+  "wrong": [
+   "Always, to a nearby shop",
+   "Yes, lift them into a car at once",
+   "Yes, make them stand up"
+  ],
+  "why": "Moving a badly hurt person can make injuries worse. Wait for trained responders."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "easy",
+  "q": "Which headlights should you use for normal night driving?",
+  "right": "Dipped (low-beam) headlights",
+  "wrong": [
+   "No lights, to save fuel",
+   "Only parking lights",
+   "High beam all the time"
+  ],
+  "why": "Dipped headlights light the road without dazzling other drivers."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "easy",
+  "q": "What should you do with your speed at night?",
+  "right": "Slow down, because you see less far",
+  "wrong": [
+   "Speed up, the roads are empty",
+   "Keep the same speed as the day",
+   "Race to finish sooner"
+  ],
+  "why": "Darkness shortens how far you can see, so you need more time to react."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "easy",
+  "q": "What is a good habit when you walk near a road at night?",
+  "right": "Wear bright or reflective clothes",
+  "wrong": [
+   "Wear dark clothes",
+   "Walk in the middle of the road",
+   "Switch off all lights"
+  ],
+  "why": "Bright or reflective items help drivers notice you earlier."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "easy",
+  "q": "What does a closed railway barrier mean?",
+  "right": "Stop and wait until it opens fully",
+  "wrong": [
+   "Go around it if no train is visible",
+   "Duck under it quickly",
+   "Speed up to cross first"
+  ],
+  "why": "A train cannot stop quickly. Never cross when the barrier is down."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "medium",
+  "q": "Why should you avoid sudden braking on a wet road?",
+  "right": "The vehicle can skid",
+  "wrong": [
+   "It wastes fuel only",
+   "The brakes work better",
+   "It cleans the tyres"
+  ],
+  "why": "Wet roads give less grip, so brake early and gently."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "medium",
+  "q": "What is the safest way to drive in fog?",
+  "right": "Slow down, use low beams and keep a bigger gap",
+  "wrong": [
+   "Use high beams to see further",
+   "Follow another vehicle very closely",
+   "Drive faster to leave the fog sooner"
+  ],
+  "why": "High beams reflect off fog. Low speed and low beams give you time and visibility."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "medium",
+  "q": "Where should you park?",
+  "right": "In a marked bay or where parking is allowed",
+  "wrong": [
+   "On a zebra crossing",
+   "On the footpath",
+   "Close to a sharp bend"
+  ],
+  "why": "Crossings, footpaths and bends must stay clear for walkers and for visibility."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "medium",
+  "q": "What should you do near a school?",
+  "right": "Slow down and watch for children",
+  "wrong": [
+   "Honk to clear the way",
+   "Speed up to pass quickly",
+   "Park on the crossing to drop children"
+  ],
+  "why": "Children can step out suddenly. Be ready to stop."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "hard",
+  "q": "How often should you take a break on a long highway trip?",
+  "right": "About every two hours, or sooner if tired",
+  "wrong": [
+   "Never, to save time",
+   "Only when the fuel runs out",
+   "Only at night"
+  ],
+  "why": "Regular rests keep you alert and cut the risk of tired-driving crashes."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "hard",
+  "q": "What should you do if the fog is too thick to drive safely?",
+  "right": "Stop at a safe place well away from the road",
+  "wrong": [
+   "Stop in the middle of the lane",
+   "Keep going very fast",
+   "Follow the tail lights very closely"
+  ],
+  "why": "Never stop on the carriageway. Move off the road and wait."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "hard",
+  "q": "Which number can you call for help on a national highway?",
+  "right": "1033",
+  "wrong": [
+   "555",
+   "1234",
+   "999999"
+  ],
+  "why": "1033 is the National Highway helpline. For emergencies you can also call 112."
+ },
+ {
+  "topic": "Road Conditions",
+  "level": "hard",
+  "q": "Why must you never go around a lowered railway barrier?",
+  "right": "A train cannot stop quickly",
+  "wrong": [
+   "The barrier may be wet",
+   "It is only for trucks",
+   "Trains always slow down"
+  ],
+  "why": "Trains need a long distance to stop, so the risk is far too high."
+ },
+ {
+  "topic": "Inclusive Safety",
+  "level": "easy",
+  "q": "What should you do before helping a person who is blind to cross?",
+  "right": "Ask if they would like help",
+  "wrong": [
+   "Pull them across quickly",
+   "Take their cane",
+   "Say nothing and push gently"
+  ],
+  "why": "Always ask first, then follow what the person tells you they need."
+ },
+ {
+  "topic": "Inclusive Safety",
+  "level": "easy",
+  "q": "Who benefits from a pedestrian ramp?",
+  "right": "Wheelchair users, prams and walkers",
+  "wrong": [
+   "Only cyclists",
+   "Only drivers",
+   "Nobody"
+  ],
+  "why": "Ramps give a smooth way up and down the kerb."
+ },
+ {
+  "topic": "Inclusive Safety",
+  "level": "easy",
+  "q": "How should drivers treat people who cross slowly?",
+  "right": "Wait patiently and give them time",
+  "wrong": [
+   "Honk to hurry them",
+   "Drive close behind them",
+   "Overtake around them"
+  ],
+  "why": "Some people need more time to cross, and that is fine."
+ },
+ {
+  "topic": "Inclusive Safety",
+  "level": "medium",
+  "q": "What is tactile paving?",
+  "right": "Raised patterns on the ground that guide people with low vision",
+  "wrong": [
+   "A kind of road paint for cars",
+   "A type of speed breaker",
+   "A parking sign"
+  ],
+  "why": "The raised bumps and lines can be felt with the feet or a cane."
+ },
+ {
+  "topic": "Inclusive Safety",
+  "level": "medium",
+  "q": "What do audio pedestrian signals do?",
+  "right": "Make a sound to say when it is safe to cross",
+  "wrong": [
+   "Warn vehicles about potholes",
+   "Play music for drivers",
+   "Count the vehicles"
+  ],
+  "why": "The sound helps people who cannot see the signal."
+ },
+ {
+  "topic": "Inclusive Safety",
+  "level": "medium",
+  "q": "Why should you not park on a footpath?",
+  "right": "It blocks people, including wheelchair users and people with low vision",
+  "wrong": [
+   "It is better for the footpath",
+   "It saves the road space for walkers",
+   "Nobody walks there"
+  ],
+  "why": "Footpaths must stay clear so everyone can pass safely."
+ },
+ {
+  "topic": "Inclusive Safety",
+  "level": "hard",
+  "q": "If you offer your arm to a person who is blind, what is right?",
+  "right": "Do it only if they want it, and let them hold your arm",
+  "wrong": [
+   "Grab their hand and lead them",
+   "Hold their shoulders and push",
+   "Walk fast to be helpful"
+  ],
+  "why": "Let the person choose how to be guided. Never grab or pull."
+ },
+ {
+  "topic": "Inclusive Safety",
+  "level": "hard",
+  "q": "What should you do with tactile paving?",
+  "right": "Keep it clear of vehicles and goods",
+  "wrong": [
+   "Park on it",
+   "Put stalls on it",
+   "Cover it up"
+  ],
+  "why": "Blocking it can leave a person with low vision without a safe path."
+ },
+ {
+  "topic": "Pedestrian Safety",
+  "level": "medium",
+  "q": "Why are vehicle blind spots dangerous for walkers?",
+  "right": "The driver cannot see you when you are very close to a large vehicle",
+  "wrong": [
+   "Blind spots only exist on bikes",
+   "Drivers see everything around",
+   "Only parked vehicles have them"
+  ],
+  "why": "Stay clear of the front, back and sides of big vehicles."
+ },
+ {
+  "topic": "Pedestrian Safety",
+  "level": "medium",
+  "q": "You reach a railway crossing and the barrier is up. What should you do?",
+  "right": "Look and listen both ways, then cross if it is clear",
+  "wrong": [
+   "Cross with headphones on",
+   "Run across immediately",
+   "Stop on the tracks to check"
+  ],
+  "why": "Barriers can go down quickly. Stay alert and never stop on the tracks."
+ },
+ {
+  "topic": "Pedestrian Safety",
+  "level": "hard",
+  "q": "A green walking signal turns on. What is the safest next step?",
+  "right": "Check that vehicles have stopped, then cross",
+  "wrong": [
+   "Run across without looking",
+   "Cross while texting",
+   "Assume all drivers will stop"
+  ],
+  "why": "The signal helps, but always check that vehicles have really stopped."
+ },
+ {
+  "topic": "Signals and Signs",
+  "level": "medium",
+  "q": "What does a stop line on the road tell you?",
+  "right": "Where to stop when the signal is red",
+  "wrong": [
+   "Where to park for free",
+   "The speed limit",
+   "The start of a school zone"
+  ],
+  "why": "Stop behind the line so walkers can use the crossing."
+ },
+ {
+  "topic": "Signals and Signs",
+  "level": "medium",
+  "q": "What does a solid line along the centre of the road usually mean?",
+  "right": "Do not cross it or overtake",
+  "wrong": [
+   "Overtake freely",
+   "It is a parking space",
+   "The road is closing"
+  ],
+  "why": "A solid line warns that overtaking is not safe or not allowed there."
+ },
+ {
+  "topic": "Signals and Signs",
+  "level": "hard",
+  "q": "Which sign shape usually means \u201cbe careful\u201d?",
+  "right": "A triangle with a red border",
+  "wrong": [
+   "A blue square",
+   "A green circle",
+   "A plain white rectangle"
+  ],
+  "why": "Cautionary signs are generally triangles with a red border."
+ },
+ {
+  "topic": "Signals and Signs",
+  "level": "hard",
+  "q": "What does a blue rectangular sign usually give?",
+  "right": "Helpful information, such as a hospital or parking",
+  "wrong": [
+   "A strict order to stop",
+   "A danger warning",
+   "A speed trap alert"
+  ],
+  "why": "Informatory signs are mostly blue rectangles."
+ },
+ {
+  "topic": "Basics",
+  "level": "medium",
+  "q": "Why is wrong-side driving dangerous?",
+  "right": "Vehicles coming the other way have little time to avoid you",
+  "wrong": [
+   "It saves everyone time",
+   "It is safe on empty roads",
+   "It only affects pedestrians"
+  ],
+  "why": "Head-on crashes are very serious. Always drive on your own side."
+ },
+ {
+  "topic": "Basics",
+  "level": "hard",
+  "q": "Which action best reduces the risk of a crash?",
+  "right": "Keep a safe speed and distance, and stay alert",
+  "wrong": [
+   "Drive faster in a gap",
+   "Use a phone at red lights only",
+   "Rely on airbags alone"
+  ],
+  "why": "Most crashes can be avoided by safe habits, not by luck or safety gear alone."
+ },
+ {
+  "topic": "Traffic Rules",
+  "level": "medium",
+  "q": "Why is triple riding on a two-wheeler unsafe?",
+  "right": "The rider loses balance and control",
+  "wrong": [
+   "It is more comfortable",
+   "It saves fuel",
+   "It makes braking easier"
+  ],
+  "why": "Two-wheelers are made for the rider and one pillion at most."
+ },
+ {
+  "topic": "Traffic Rules",
+  "level": "hard",
+  "q": "What should a cyclist use after dark?",
+  "right": "Lights and reflectors",
+  "wrong": [
+   "Nothing, to look cool",
+   "Only a bell",
+   "Dark clothes"
+  ],
+  "why": "Lights and reflectors help drivers see you."
+ },
+ {
+  "topic": "Helmet and Seatbelt",
+  "level": "medium",
+  "q": "What is the best way to check a helmet fits?",
+  "right": "It sits level and snug, and does not move around",
+  "wrong": [
+   "It should be loose and wobbly",
+   "It can sit on the back of the head",
+   "It should cover your eyes"
+  ],
+  "why": "A snug, level helmet with a fastened strap protects best."
+ },
+ {
+  "topic": "Helmet and Seatbelt",
+  "level": "hard",
+  "q": "Should a helmet be replaced after a hard impact?",
+  "right": "Yes, because it may be damaged inside",
+  "wrong": [
+   "No, it is always fine",
+   "Only if it looks dirty",
+   "Only if it is old"
+  ],
+  "why": "A hard hit can weaken the helmet even when it looks fine."
+ },
+ {
+  "topic": "Emergency",
+  "level": "medium",
+  "q": "What information should you give when you call 112?",
+  "right": "The exact location and what has happened",
+  "wrong": [
+   "Only your name",
+   "Nothing, just wait",
+   "Only the time"
+  ],
+  "why": "Clear location and details help responders reach the place fast."
+ },
+ {
+  "topic": "Emergency",
+  "level": "easy",
+  "q": "Where should you stand when you stop to help at a crash?",
+  "right": "In a safe place away from traffic",
+  "wrong": [
+   "In the middle of the road",
+   "Right behind the vehicles",
+   "On the fast lane"
+  ],
+  "why": "Your own safety comes first."
+ }
+]

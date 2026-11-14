@@ -1,0 +1,26 @@
+# Secrets and personal config
+.env
+.env.*
+!.env.example
+/backend/application.properties
+application-local.properties
+application-*.properties
+!src/main/resources/application.properties
+*.pem
+*.key
+
+# Dependencies and build output
+node_modules/
+dist/
+target/
+
+# Editors, OS, logs
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+
+# Zips and exports
+*.zip

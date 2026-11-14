@@ -1,0 +1,20 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+@layer base{
+html{scroll-behavior:smooth}
+body{@apply bg-cream text-navy font-body text-[17px] leading-relaxed antialiased}
+h1,h2,h3,h4{@apply font-display font-bold leading-tight}
+:focus-visible{outline:3px solid #263B50;outline-offset:3px;border-radius:12px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}}
+@layer components{
+.btn{@apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 font-display font-bold text-lg border-2 border-navy shadow-pop transition active:translate-y-1 active:shadow-none min-h-[48px]}
+.btn-coral{@apply btn bg-coral hover:bg-[#ff8a70]}
+.btn-sun{@apply btn bg-sun hover:bg-[#ffd96e]}
+.btn-white{@apply btn bg-white hover:bg-sky}
+.card{@apply bg-white rounded-blob border-2 border-navy/15 p-6 shadow-pop}
+.wrap{@apply mx-auto w-full max-w-6xl px-5}
+.chip{@apply inline-flex items-center gap-1 rounded-full bg-white/80 border border-navy/20 px-3 py-1 text-sm font-bold}
+}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes drift{from{transform:translateX(-10%)}to{transform:translateX(110%)}}
+@keyframes drive{from{transform:translateX(-120px)}to{transform:translateX(1000px)}}
+.bob{animation:bob 3.2s ease-in-out infinite}
